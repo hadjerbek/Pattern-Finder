@@ -4,10 +4,10 @@
 # AUTEUR  
 Bekhira Hadjer  
 
-# Contenu de l'archive  
-Cette archive est constituée des fichiers suivants :  
+# Contenu du projet  
+Ce projet est constituée des fichiers suivants :  
   
-- README.md : fichier décrivant le contenu de l'archive ;  
+- README.md : fichier décrivant le contenu du projet ;  
 - lorem.txt : fichier test dans lequel des motifs peuvent être recherchés ;  
 - test_basic.sh : fichier contenant des scénario de test basique reflétant  
   une partie des fonctionnalités du programme.  
@@ -32,7 +32,7 @@ $ ./pattern-finder 2 lor lorem.txt
 ```   
 (recherche du pattern lor dans le fichier lorem.txt en utilisant 2 threads).  
   
-L'exécution, comme décrite dans l'énoncé du TD ainsi que dans le 'usage()',  
+L'exécution, comme décrite le 'usage()',  
 se fait comme suit :  
   
 ./pattern-finder [n_workers] [pattern] [file]  
